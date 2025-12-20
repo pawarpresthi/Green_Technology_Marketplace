@@ -1,1 +1,25 @@
-
+<component name="ArtifactManager">
+<artifact type="SmartTomcatPro.exploded-war" name="WebProject:war exploded">
+<output-path>$PROJECT_DIR$/out/artifacts/WebProject_war_exploded</output-path>
+<root id="root">
+<element id="directory" name="WEB-INF">
+<element id="directory" name="lib">
+<element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.28"/>
+<element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4"/>
+<element id="library" level="project" name="Maven: javax.mail:javax.mail-api:1.6.2"/>
+<element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.6.2"/>
+<element id="library" level="project" name="Maven: javax.activation:activation:1.1"/>
+<element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.15.2"/>
+<element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.15.2"/>
+<element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.15.2"/>
+<element id="library" level="project" name="Maven: com.paypal.sdk:rest-api-sdk:1.14.0"/>
+<element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21"/>
+<element id="library" level="project" name="Maven: com.google.code.gson:gson:2.2.2"/>
+</element>
+<element id="directory" name="classes">
+<element id="module-output" name="WebProject"/>
+</element>
+</element>
+</root>
+</artifact>
+</component>
