@@ -1,0 +1,28 @@
+<component name="ProjectRunConfigurationManager">
+<configuration default="false" name="Tomcat local" type="SmartTomcatProRunConfigurationType" focusToolWindowBeforeRun="true">
+<deployments>
+<tomcat-deployment context-path="/webproject" location="$PROJECT_DIR$/src/main/webapp" module="WebProject" type="DIR"/>
+</deployments>
+<option name="httpPort" value="8080"/>
+<option name="httpsPort" value="8443"/>
+<option name="id" value="a054f172-3510-4966-a5a0-bae0f6d2b067"/>
+<predefined_log_file enabled="true" id="Tomcat Localhost Log"/>
+<predefined_log_file enabled="true" id="Tomcat Access Log"/>
+<predefined_log_file id="Tomcat Catalina Log"/>
+<predefined_log_file id="Tomcat Manager Log"/>
+<predefined_log_file id="Tomcat Host Manager Log"/>
+<option name="tomcatId" value="a0dab36e-e867-40f7-8647-862a74b56437"/>
+<method v="2">
+<option name="Make" enabled="true"/>
+<option name="BuildArtifacts" enabled="true">
+<artifact name="WebProject:war exploded"/>
+</option>
+<option name="BuildArtifacts" enabled="true">
+<artifact name="WebProject:war exploded"/>
+</option>
+<option name="BuildArtifacts" enabled="true">
+<artifact name="WebProject:war exploded"/>
+</option>
+</method>
+</configuration>
+</component>
