@@ -3,11 +3,11 @@ The Green Super Market Web Application is a modern, eco-friendly online shopping
 Java-Web-Application
 This is a Java Web Application project created with JSP and Servlet .
 
-Recommended Tools and Versions
+Recommended Tools and Versions  
 IDE - IntelliJ Idea Community Edition  
-Java Version - 24.0.
-Tomcat Version - 11.15.
-Database - MySQL
+Java Version - 24.0.  
+Tomcat Version - 11.15.  
+Database - MySQL  
 Video Demonstration: Green Market Place
 <img width="1661" height="923" alt="image" src="https://github.com/user-attachments/assets/378e9057-ec47-4656-b29e-fba7868c35c4" />
 <img width="1666" height="952" alt="image" src="https://github.com/user-attachments/assets/8769bce6-9b0a-4221-97f1-8d9c760a4053" />
