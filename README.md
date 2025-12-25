@@ -2,6 +2,16 @@
 The Green Super Market Web Application is a modern, eco-friendly online shopping platform designed to make grocery shopping sustainable, convenient, and user-friendly..  
 Java-Web-Application
 This is a Java Web Application project created with JSP and Servlet .  
+
+## Features
+- User registration & login/logout (session-based)
+- Role-based pages (customer, admin)
+- Product listing, add-to-cart, checkout flow
+- Admin panel: CRUD for products, categories
+- File upload support for product images
+- JDBC-based persistence (DAO layer)
+- Simple business/service layer
+- JSP views with header/footer fragments
   
 ### Recommended Tools and Versions  
 --- **IDE :-**  IntelliJ Idea Community Edition  
