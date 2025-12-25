@@ -21,6 +21,46 @@ This is a Java Web Application project created with JSP and Servlet .
 <img width="1662" height="759" alt="image" src="https://github.com/user-attachments/assets/bf3df7f9-6c2b-42a9-8875-c6b74971747d" />
 
 
+```
+Green_Technology_Marketplace/
+├── README.md
+├── pom.xml OR build.gradle          # (if using Maven or Gradle)
+├── .gitignore
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── pawarpresthi/greenmarket/      # replace with your base package
+│       │           ├── controller/                # Servlets, controllers
+│       │           ├── model/                     # POJOs / DTOs / entities
+│       │           ├── dao/                       # DB access (JDBC/DAO classes)
+│       │           ├── service/                   # Business logic
+│       │           └── util/                      # Helpers, DB connection, constants
+│       └── webapp/
+│           ├── META-INF/
+│           ├── WEB-INF/
+│           │   ├── web.xml                        # servlet mappings, filters
+│           │   └── lib/                           # optional: jars for Tomcat (if needed)
+│           ├── views/                             # JSP pages (or put directly under webapp/)
+│           │   ├── index.jsp
+│           │   ├── login.jsp
+│           │   ├── dashboard.jsp
+│           │   └── fragments/                     # header/footer includes
+│           └── assets/
+│               ├── css/
+│               │   └── styles.css
+│               ├── js/
+│               │   └── app.js
+│               └── images/
+├── sql/
+│   ├── schema.sql                                # DB schema / sample data
+│   └── seed.sql
+├── config/                                       # optional config files (properties)
+│   └── application.properties
+├── lib/                                          # optional: 3rd-party jars if not using a build tool
+├── scripts/                                      # helper scripts (start-db, deploy)
+└── docs/                                         # design docs, ER diagrams, screenshots
+```
 
 
 
