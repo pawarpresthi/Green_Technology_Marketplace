@@ -7,7 +7,7 @@ This is a Java Web Application project created with JSP and Servlet .
 --- IDE - IntelliJ Idea Community Edition  
 --- Java Version - 24.0.  
 --- Tomcat Version - 11.15.  
-Database - MySQL  
+--- Database - MySQL  
 
 ### Demonstration: Green Market Place
 <img width="1661" height="923" alt="image" src="https://github.com/user-attachments/assets/378e9057-ec47-4656-b29e-fba7868c35c4" />
