@@ -64,10 +64,10 @@ Green_Technology_Marketplace/
 ```
 
 ## How to run (dev):
-1.--- Create MySQL database and run `sql/schema.sql`.
-2.--- Configure DB connection in `config/application.properties` or `WEB-INF` context params.
-3.--- Build (if Maven): `mvn clean package` → deploy the generated WAR to Tomcat (e.g. Tomcat 11).
-4.--- Or run from IDE (IntelliJ): set up a Tomcat run configuration and use the project as a web application.
+1.--- Create MySQL database and run `sql/schema.sql`.  
+2.--- Configure DB connection in `config/application.properties` or `WEB-INF` context params.  
+3.--- Build (if Maven): `mvn clean package` → deploy the generated WAR to Tomcat (e.g. Tomcat 11).  
+4.--- Or run from IDE (IntelliJ): set up a Tomcat run configuration and use the project as a web application.  
 
 
 
