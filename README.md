@@ -21,6 +21,7 @@ This is a Java Web Application project created with JSP and Servlet .
 <img width="1662" height="759" alt="image" src="https://github.com/user-attachments/assets/bf3df7f9-6c2b-42a9-8875-c6b74971747d" />
 
 
+## Project structure 
 ```
 Green_Technology_Marketplace/
 ├── README.md
